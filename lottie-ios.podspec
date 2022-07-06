@@ -11,7 +11,6 @@ Pod::Spec.new do |s|
   s.version          = '4.4.3'
   s.summary          = 'A library to render native animations from bodymovin json. Now in Swift!'
 
-
   s.description = <<-DESC
 Lottie is a mobile library for Android and iOS that parses Adobe After Effects animations exported as json with bodymovin and renders the vector animations natively on mobile and through React Native!
 
